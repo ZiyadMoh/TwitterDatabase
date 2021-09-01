@@ -1,5 +1,5 @@
 # TwitterDatabase
-This is the final project for  courses SQL101-SQL102-SQL103 
+##This is the final project for  courses SQL101-SQL102-SQL103 
 
 When talking about social networking sites, we see that Twitter is one of the most popular sites for communication between users, allowing you to communicate with thousands of people from several different regions, as each user registers and a personal profile is created for him through which he sees the user name, account creation date, profile About the user, followers, followers, tweets, and tweet likes. Simulate Twitter to include all users' data (such as email), their profiles which include information about the user (such as username), follow-up details between users, Tweet details (such as the content of the Tweet), and likes on the Tweet (who liked the Tweet).
 
